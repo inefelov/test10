@@ -10,8 +10,8 @@
  {% block content %}{% endblock %}
  </div>
  <div id="sidebar">
- <h2>Куда поехать отдохнуть?</h2>
-  <p>Страны Европы</p>
+ <h2>Страны</h2>
+  <p>Европы</p>
  </div>
 </body>
 </html>
